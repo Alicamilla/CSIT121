@@ -1,0 +1,46 @@
+body {
+	background-color: tan;
+}
+
+h1 {
+	color: saddlebrown;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: "Times New Roman", serif;
+}
+
+h2{
+	color: saddlebrown;
+	text-align: left;
+	text-transform:capitalize;
+}
+
+p{
+	font-family: "Apple Chancery", cursive;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+ul{
+	text-align:left;
+	font-size:23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+ol{
+	text-align: left;
+	font-size: 23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+a{
+	color: black;
+	font-size:22px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
