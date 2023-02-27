@@ -1,0 +1,66 @@
+body {
+	background-color: tan;
+}
+
+h1 {
+	color: saddlebrown;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: "Times New Roman", serif;
+	text-shadow: 2.5px 3px;
+}
+
+h2{
+	color: saddlebrown;
+	text-align: left;
+	text-transform:capitalize;
+}
+
+p{
+	font-family: "Apple Chancery", cursive;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+ul{
+	text-align:left;
+	font-size:23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+ol{
+	text-align: left;
+	font-size: 23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+a{
+	color: black;
+	font-size:22px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+img{
+	border-radius: 120px;
+	display: block;
+	margin-left: auto;
+	width: 50%;
+	height: 50%;
+	object-fit: cover;
+
+}
+
+.peanutbuttergoodness{
+	opacity: 7px;
+	height: 300px;
+	width: 200px;
+	margin-right: auto;
+
+}
+
