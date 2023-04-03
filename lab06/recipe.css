@@ -1,0 +1,91 @@
+@media screen and (max-width: 768px) {
+	body {
+		background-color: hotpink;
+
+	}
+}
+
+@media only screen and (orientation: portrait) {
+  body {
+    background-color: violet;
+  }
+}
+
+@media print {
+	body{
+		color: hotpink;
+	}
+}
+
+@media (orientation: landscape) {
+	.h1 {
+		color:cyan;
+	}
+}
+
+div{
+ 	border-width: 5px;
+	border-color: saddlebrown;
+	border-style: solid;
+}
+
+h1 {
+	color: saddlebrown;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: "Times New Roman", serif;
+	text-shadow: 2.5px 3px;
+	
+}
+
+h2{
+	color: saddlebrown;
+	text-align: left;
+	text-transform:capitalize;
+}
+
+p{
+	font-family: "Apple Chancery", cursive;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+ul{
+	text-align:left;
+	font-size:23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+ol{
+	text-align: left;
+	font-size: 23px;
+	margin: 5%;
+	color: black;
+	font-family: "Courier New", monospace;
+}
+
+a{
+	color: black;
+	font-size:22px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+img{
+	border-radius: 100px;
+	margin-left: auto;
+	max-width: 100%;
+	height: auto;
+	
+}
+
+.peanutbuttergoodness{
+	height: 300px;
+	width: 300px;
+}
+
+
+
