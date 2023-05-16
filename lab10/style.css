@@ -1,0 +1,13 @@
+body {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+
+body {
+  background-color: lightgreen;
+  color: darkgreen;
+  font-family: Courier, monospace;
+  overflow: hidden;
+}
+
